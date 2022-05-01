@@ -52,3 +52,58 @@ https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regres
 Avaluar els models de regressió II 
 https://medium.com/acing-ai/how-to-evaluate-regression-models-d183b4f5853d
 
+
+3. Exemples de models de regressió
+
+En aquest capítol veuràs diferents exemples d'aprenentatge supervisat - regressions per tal d'assolir de manera més clara i pràctica els conceptes que has treballat en l'anterior llibre.
+
+Material didàctic:
+
+Arbres de regressió
+https://medium.com/pursuitnotes/decision-tree-regression-in-6-steps-with-python-1a1c5aa2ee16
+
+Random forest
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
+Xarxes neuronals amb sklearn
+https://www.pluralsight.com/guides/machine-learning-neural-networks-scikit-learn
+
+Llibreria sklearn - xarxes neuronals
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+
+Visualització xarxes neuronals
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.44679&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+Models de regressió avançats I
+https://medium.com/analytics-vidhya/5-regression-algorithms-you-need-to-know-theory-implementation-37993382122d
+
+Models de regressió avançats II
+https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning
+
+
+4. Introducció al machine learning
+
+L'aprenentatge automàtic (machine learning en anglès) és la part de la intel·ligència artificial on construïm diferents models que poden ser supervisats (de classificació o de regressió) i no supervisats (clustering o agrupació). 
+
+En aquest capítol tindràs el primer contacte amb l'aprenentatge automàtic així com coneixeràs la principal llibreria Python per tractar aquests temes, scikitlearn.
+
+Primer contacte amb machine learning
+https://www.w3schools.com/python/python_ml_getting_started.asp
+
+    Secció completa i Module Reference
+
+Machine learning amb scikitlearn
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+Preprocessament de les dades amb scikit-learn
+https://scikit-learn.org/stable/modules/preprocessing.html
+
+    Estandardització, Reescalar a un rang, Imputació i Generació de polinomis
+
+Sklearn cheatsheets
+
+    Full de truc i tutorial de la llibreria Sklearn per Data Science
+    Descàrregar els documents
+
+
+
