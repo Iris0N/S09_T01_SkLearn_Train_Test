@@ -1,0 +1,28 @@
+
+Aprenentatge Supervisat - Regressions
+
+A continuació, en el següent llibre aprendràs a construir els diferents models de machine learning, coneixeràs diferents exemples de models de regressió per iniciar-te amb el machine learning. 
+
+Recorda de portar al dia totes les entregues de les tasques!!
+
+1. Train and test
+
+Per construir els diferents models de machine learning calen unes dades d'entrenament (train) i unes de testeig (test). 
+
+En aquest capítol veuràs com manipular les dades per obtenir aquests dos conjunts
+
+Material didàctic:
+
+Train-test split for evaluating machine learning algorithms
+https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/
+
+Split your dataset with scikit-learn train test
+https://realpython.com/train-test-split-python-data/
+
+Train test split amb pycaret
+https://pycaret.gitbook.io/docs/
+
+Sklearn model selection train test split
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+
